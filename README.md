@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header Image: Hi there 👋🏼 I'm Melody Ho. Welcome to my GitHub.](animated_header.gif)
 
 <!--
 **melody-ho/melody-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
