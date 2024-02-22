@@ -7,17 +7,20 @@
 
 ### 👩🏻‍💻 Coding with
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23555555?style=flat-square&logo=javascript "JavaScript Badge")
-![CSS](https://img.shields.io/badge/CSS-%23555555?style=flat-square&logo=css3&logoColor=%231572B6 "CSS Badge")
 ![HTML](https://img.shields.io/badge/HTML-%23555555?style=flat-square&logo=html5 "HTML Badge")
+![CSS](https://img.shields.io/badge/CSS-%23555555?style=flat-square&logo=css3&logoColor=%231572B6 "CSS Badge")
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-%23555555?style=flat-square&logo=cssmodules "CSS Modules Badge")
+![JavaScript](https://img.shields.io/badge/JavaScript-%23555555?style=flat-square&logo=javascript "JavaScript Badge")
 ![React](https://img.shields.io/badge/React-%23555555?style=flat-square&logo=react "React Badge")
 ![Next.js](https://img.shields.io/badge/Next.js-%23555555?style=flat-square&logo=nextdotjs "Next.js Badge")
 ![Node.js](https://img.shields.io/badge/Node.js-%23555555?style=flat-square&logo=nodedotjs "Node.js Badge")
 ![Express](https://img.shields.io/badge/Express-%23555555?style=flat-square&logo=express "Express Badge")
+![Jest](https://img.shields.io/badge/Jest-%23555555?style=flat-square&logo=jest&logoColor=%23C21325 "Jest Badge")
 ![Sequelize](https://img.shields.io/badge/Sequelize-%23555555?style=flat-square&logo=sequelize "Sequelize Badge")
 ![MySQL](https://img.shields.io/badge/MySQL-%23555555?style=flat-square&logo=mysql "MySQL Badge")
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23555555?style=flat-square&logo=mongodb "MongoDB Badge")
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23555555?style=flat-square&logo=amazons3 "AWS S3 Badge")
+![Vite](https://img.shields.io/badge/Vite-%23555555?style=flat-square&logo=vite "Vite Badge")
 ![Webpack](https://img.shields.io/badge/Webpack-%23555555?style=flat-square&logo=webpack "Webpack Badge")
 ![Babel](https://img.shields.io/badge/Babel-%23555555?style=flat-square&logo=babel "Babel Badge")
 ![ESLint](https://img.shields.io/badge/ESLint-%23555555?style=flat-square&logo=eslint&logoColor=%234B32C3 "ESLint Badge")
@@ -33,3 +36,9 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23555555?style=flat-square&logo=adobeillustrator "Adobe Illustrator Badge")
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23555555?style=flat-square&logo=adobeaftereffects "Adobe After Effects Badge")
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23555555?style=flat-square&logo=adobephotoshop "Adobe Photoshop Badge")
+
+### 🌱 Learning
+
+![Cypress](https://img.shields.io/badge/Cypress-%23555555?style=flat-square&logo=cypress "Cypress Badge")
+![TypeScript](https://img.shields.io/badge/TypeScript-%23555555?style=flat-square&logo=typescript "TypeScript Badge")
+![Python](https://img.shields.io/badge/Python-%23555555?style=flat-square&logo=python "Python Badge")
